@@ -1,0 +1,16 @@
+C:\Users\Intecma\Documents\GitHub\Leesin\bin\Debug\LeeSin.exe.config
+C:\Users\Intecma\Documents\GitHub\Leesin\bin\Debug\LeeSin.exe
+C:\Users\Intecma\Documents\GitHub\Leesin\bin\Debug\LeeSin.pdb
+C:\Users\Intecma\Documents\GitHub\Leesin\bin\Debug\ExternalDraw.dll
+C:\Users\Intecma\Documents\GitHub\Leesin\bin\Debug\LeagueSharp.Common.dll
+C:\Users\Intecma\Documents\GitHub\Leesin\bin\Debug\LeagueSharp.dll
+C:\Users\Intecma\Documents\GitHub\Leesin\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Intecma\Documents\GitHub\Leesin\bin\Debug\SharpDX.dll
+C:\Users\Intecma\Documents\GitHub\Leesin\bin\Debug\clipper_library.dll
+C:\Users\Intecma\Documents\GitHub\Leesin\bin\Debug\LeagueSharp.Sandbox.dll
+C:\Users\Intecma\Documents\GitHub\Leesin\bin\Debug\LeagueSharp.xml
+C:\Users\Intecma\Documents\GitHub\Leesin\obj\Debug\LeeSin.csprojResolveAssemblyReference.cache
+C:\Users\Intecma\Documents\GitHub\Leesin\obj\Debug\LeeSin.Properties.Resources.resources
+C:\Users\Intecma\Documents\GitHub\Leesin\obj\Debug\LeeSin.csproj.GenerateResource.Cache
+C:\Users\Intecma\Documents\GitHub\Leesin\obj\Debug\LeeSin.exe
+C:\Users\Intecma\Documents\GitHub\Leesin\obj\Debug\LeeSin.pdb
